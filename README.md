@@ -35,3 +35,15 @@ Core functionalities include interactive graphs, filters for episode and industr
 • matplotlib
 
 • seaborn
+
+
+# Streamlit app:
+
+
+• ![image](https://github.com/user-attachments/assets/282a167b-347a-4836-814f-370e76e22fd0)
+
+• ![image](https://github.com/user-attachments/assets/b8fadd6d-6462-4492-8933-c813782805fa)
+
+• ![image](https://github.com/user-attachments/assets/1eeccc59-0cf2-4e6b-a1df-f7d60f044701)
+
+
