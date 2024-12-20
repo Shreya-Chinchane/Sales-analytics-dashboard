@@ -50,11 +50,8 @@ Core functionalities include interactive graphs, filters for episode and industr
 # Project group members:
 
 - Sandeep Tudu
-
 - Ali Abbas
-
 - Shreya Chinchane
-
 - Saloni Kumari
 
 
