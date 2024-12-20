@@ -47,3 +47,14 @@ Core functionalities include interactive graphs, filters for episode and industr
 • ![image](https://github.com/user-attachments/assets/1eeccc59-0cf2-4e6b-a1df-f7d60f044701)
 
 
+# Project group members:
+
+- Sandeep Tudu
+
+- Ali Abbas
+
+- Shreya Chinchane
+
+- Saloni Kumari
+
+
